@@ -1,0 +1,15 @@
+D:\ITI\C# Course\Day7\bin\Debug\net6.0\Day7.exe
+D:\ITI\C# Course\Day7\bin\Debug\net6.0\Day7.deps.json
+D:\ITI\C# Course\Day7\bin\Debug\net6.0\Day7.runtimeconfig.json
+D:\ITI\C# Course\Day7\bin\Debug\net6.0\Day7.dll
+D:\ITI\C# Course\Day7\bin\Debug\net6.0\ref\Day7.dll
+D:\ITI\C# Course\Day7\bin\Debug\net6.0\Day7.pdb
+D:\ITI\C# Course\Day7\obj\Debug\net6.0\Day7.csproj.AssemblyReference.cache
+D:\ITI\C# Course\Day7\obj\Debug\net6.0\Day7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C# Course\Day7\obj\Debug\net6.0\Day7.AssemblyInfoInputs.cache
+D:\ITI\C# Course\Day7\obj\Debug\net6.0\Day7.AssemblyInfo.cs
+D:\ITI\C# Course\Day7\obj\Debug\net6.0\Day7.csproj.CoreCompileInputs.cache
+D:\ITI\C# Course\Day7\obj\Debug\net6.0\Day7.dll
+D:\ITI\C# Course\Day7\obj\Debug\net6.0\ref\Day7.dll
+D:\ITI\C# Course\Day7\obj\Debug\net6.0\Day7.pdb
+D:\ITI\C# Course\Day7\obj\Debug\net6.0\Day7.genruntimeconfig.cache
